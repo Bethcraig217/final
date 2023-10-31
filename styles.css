@@ -64,6 +64,9 @@
       font-size: 25px;
       color: #FFA3F8;
   }
+  h8{
+
+  }
 
   .searching {
       margin-bottom: 100px;
@@ -87,7 +90,4 @@
   button {
       display: block;
       margin: 0 auto;
-  }
-  .h8{
-    font-size: 5px;
   }
