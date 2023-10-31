@@ -64,12 +64,10 @@
       font-size: 25px;
       color: #FFA3F8;
   }
-  h8{
-
-  }
 
   .searching {
       margin-bottom: 100px;
+      
   }
 
 
@@ -91,3 +89,6 @@
       display: block;
       margin: 0 auto;
   }
+.creation{
+    font-size: 10px;
+}
