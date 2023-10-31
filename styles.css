@@ -85,10 +85,14 @@
 
   }
 
-  button {
-      display: block;
-      margin: 0 auto;
-  }
-.creation{
-    font-size: 10px;
+
+.text {
+    border-top: 1px solid #f9f7fe;
+    text-align: center;
+    padding-top: 15px;
+
+    color: rgba(39, 33, 66, 0.4);
+}
+p{
+    font-size: 5px;
 }
